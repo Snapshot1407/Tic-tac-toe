@@ -1,2 +1,2 @@
-# Tic-tac-toe-1
+# Tic-tac-toe
 Мой первый репозиторий на GitHub
